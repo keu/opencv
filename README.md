@@ -1,5 +1,7 @@
 ## OpenCV: Open Source Computer Vision Library
 
+Python Course
+
 ### Resources
 
 * Homepage: <https://opencv.org>
